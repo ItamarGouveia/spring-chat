@@ -20,5 +20,11 @@
 * Websocket
 * STOMP
 
+
+:speech_balloon: Você pode testar o chat em: 
+[spring-chat.onrender.com](https://spring-chat.onrender.com/)
+
 :mag: Baixe o projeto e teste você mesmo na prática.
+
+
 
