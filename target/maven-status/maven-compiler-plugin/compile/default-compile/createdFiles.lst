@@ -1,0 +1,5 @@
+com/igouveia/livechat/LivechatApplication.class
+com/igouveia/livechat/config/WebSocketConfig.class
+com/igouveia/livechat/domain/ChatOutput.class
+com/igouveia/livechat/controller/LiveChatController.class
+com/igouveia/livechat/domain/ChatInput.class

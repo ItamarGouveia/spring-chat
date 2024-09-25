@@ -1,0 +1,5 @@
+/home/itamar/projetos/spring-chat/src/main/java/com/igouveia/livechat/LivechatApplication.java
+/home/itamar/projetos/spring-chat/src/main/java/com/igouveia/livechat/config/WebSocketConfig.java
+/home/itamar/projetos/spring-chat/src/main/java/com/igouveia/livechat/controller/LiveChatController.java
+/home/itamar/projetos/spring-chat/src/main/java/com/igouveia/livechat/domain/ChatInput.java
+/home/itamar/projetos/spring-chat/src/main/java/com/igouveia/livechat/domain/ChatOutput.java
